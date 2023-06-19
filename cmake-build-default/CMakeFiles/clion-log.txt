@@ -1,0 +1,5 @@
+"C:\Program Files\JetBrains\CLion 2022.2.3\bin\cmake\win\bin\cmake.exe" "-DCMAKE_MAKE_PROGRAM=C:/Program Files/JetBrains/CLion 2022.2.3/bin/ninja/win/ninja.exe" -G Ninja -S C:\Users\Stalker\CLionProjects\Game -B C:\Users\Stalker\CLionProjects\Game\cmake-build-default
+-- Found SFML 2.5.1 in C:/sdk/SFML/lib/cmake/SFML
+-- Configuring done
+-- Generating done
+-- Build files have been written to: C:/Users/Stalker/CLionProjects/Game/cmake-build-default

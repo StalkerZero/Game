@@ -1,0 +1,3 @@
+C:/Users/Stalker/CLionProjects/Game/cmake-build-debug-mingw-for-sfml/CMakeFiles/Game.dir
+C:/Users/Stalker/CLionProjects/Game/cmake-build-debug-mingw-for-sfml/CMakeFiles/edit_cache.dir
+C:/Users/Stalker/CLionProjects/Game/cmake-build-debug-mingw-for-sfml/CMakeFiles/rebuild_cache.dir
